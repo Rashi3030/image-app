@@ -1,4 +1,6 @@
-# Fibonacci sequence 
-perv,curr=0,1
-while(i>=10):
-    print(perv)
+
+    # Fibonacci sequence
+prev, curr = 0, 1
+while prev <= 10:
+    print(prev)
+    prev, curr = curr, prev + curr
