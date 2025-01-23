@@ -1,3 +1,0 @@
-# image-app
-## PROJECT
-## ADD
