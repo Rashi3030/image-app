@@ -1,10 +1,4 @@
-from flask import Flask
-
-app = Flask(__name__)
-
-@app.route("/")
-def hello():
- return "Hello, World!"
-
-if __name__ == "__main__":
- app.run(debug=True)
+# Fibonacci sequence 
+perv,curr=0,1
+while(i>=10):
+    print(perv)
